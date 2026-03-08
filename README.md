@@ -16,7 +16,6 @@ ai-junior-judge/
 │   └── aijj.db             ← SQLite database (auto-created on first run)
 │
 └── frontend/
-    └── templates/
         └── index.html      ← Full single-page frontend app
 ```
 
@@ -110,7 +109,7 @@ OR visit http://localhost:5000 (Flask serves it automatically).
 | ORM        | SQLAlchemy        | Python ↔ Database bridge             |
 | Auth       | JWT (PyJWT)       | Secure stateless authentication      |
 | PDF Extract| pdfplumber        | Text extraction from PDFs            |
-| AI Engine  | Anthropic Claude  | NLP summarisation + merit scoring    |
+| AI Engine  | Groq API          | NLP summarisation + merit scoring    |
 | Passwords  | Werkzeug (bcrypt) | Secure password hashing              |
 
 ---
@@ -123,6 +122,42 @@ OR visit http://localhost:5000 (Flask serves it automatically).
 - File type + size validation
 
 ---
+📈 VERSION ROADMAP
+✅ v1.0 — MVP (Current)
+
+-JWT Authentication (Register / Login)
+-PDF & TXT file upload + text extraction
+-Groq AI (LLaMA 3.3 70B) case brief generation
+-Merit Score (0–100) with reasoning
+-Urgency classification (HIGH / MEDIUM / LOW)
+-Key facts, legal issues, arguments extraction
+-Relevant sections & precedents
+-Case history dashboard
+-SQLite local database
+
+
+🔜 v2.0 — Enhanced AI (Planned)
+
+-Multi-language support (Hindi, Marathi, Tamil etc.)
+-Better precedent matching using vector search (FAISS / Pinecone)
+-Case similarity comparison
+-Batch upload (multiple PDFs at once)
+-Export brief as PDF / Word document
+
+🔜 v3.0 — Production Ready (Planned UPGRADING TO PRODUCTION)
+
+Replace SQLite with PostgreSQL:
+python   app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://user:pass@localhost/aijj'
+
+-Will Use Gunicorn instead of Flask dev server
+-Store files in AWS S3 instead of local disk
+-Add HTTPS with nginx reverse proxy
+-Change SECRET_KEY to a strong random string
+-Role-based access control (Judge vs Clerk vs Admin)
+-Audit logs for every case action
+
+---
+
 
 ## 📈 UPGRADING TO PRODUCTION
 
