@@ -1,0 +1,215 @@
+IN THE HIGH COURT OF DELHI
+CIVIL WRIT PETITION NO. 4821/2024
+
+BEFORE: HON'BLE JUSTICE R.K. SHARMA
+
+DATE OF HEARING: 15 OCTOBER 2024
+DATE OF ORDER: 22 OCTOBER 2024
+
+---------------------------------------------------------
+PETITIONER:
+Rajesh Kumar Verma
+S/O Late Sh. Mohan Lal Verma
+R/O 47, Lajpat Nagar, New Delhi - 110024
+
+VERSUS
+
+RESPONDENT:
+1. Union of India, through Secretary,
+   Ministry of Labour and Employment,
+   Shram Shakti Bhawan, New Delhi - 110001
+
+2. Employees Provident Fund Organisation (EPFO),
+   Head Office, Bhavishya Nidhi Bhawan,
+   14, Bhikaiji Cama Place, New Delhi - 110066
+---------------------------------------------------------
+
+SUBJECT: Wrongful denial of Provident Fund withdrawal claim
+         and arbitrary cancellation of EPF account No. DL/47821/003421
+
+---------------------------------------------------------
+BACKGROUND AND FACTS OF THE CASE:
+---------------------------------------------------------
+
+1. The Petitioner, Rajesh Kumar Verma, aged 58 years, was employed
+   as a Senior Accounts Manager at M/s Sunrise Textiles Pvt. Ltd.,
+   Okhla Industrial Area, New Delhi from 01 April 1991 to 31 March 2023,
+   completing a total service period of 32 years.
+
+2. During his entire tenure of employment, the Petitioner and his employer
+   made regular monthly contributions to the Employees Provident Fund
+   as mandated under the Employees Provident Funds and Miscellaneous
+   Provisions Act, 1952. The total accumulated corpus in the EPF account
+   of the Petitioner as on 31 March 2023 stood at Rs. 18,42,650/- (Rupees
+   Eighteen Lakhs Forty-Two Thousand Six Hundred and Fifty only).
+
+3. Upon retirement on 31 March 2023, the Petitioner submitted Form 19
+   (Final PF Settlement) and Form 10C (Pension Withdrawal Benefit) on
+   15 April 2023 through the EPFO Unified Member Portal for withdrawal
+   of his entire provident fund accumulations.
+
+4. Despite the submission of complete documentation, the Respondent No. 2
+   (EPFO) rejected the withdrawal claim vide rejection letter dated
+   20 June 2023, citing "discrepancy in KYC documents" without specifying
+   the exact nature of the discrepancy. No opportunity of hearing was
+   provided to the Petitioner before such rejection.
+
+5. The Petitioner made multiple representations to the Regional PF
+   Commissioner, Delhi (East) on 10 July 2023, 25 July 2023, and
+   15 August 2023, requesting clarification and rectification.
+   All representations went unacknowledged and unanswered.
+
+6. Subsequently, the Petitioner discovered through RTI Application
+   No. EPFOG/R/2023/50421 filed on 01 September 2023 that his EPF
+   account had been arbitrarily tagged as "Inoperative/Suspicious"
+   without any prior notice or show cause proceeding.
+
+7. The Petitioner's family is in financial distress as he is the sole
+   earning member and his wife requires continuous medical treatment
+   for chronic kidney disease, incurring monthly expenses of Rs. 45,000/-.
+
+---------------------------------------------------------
+LEGAL ISSUES RAISED:
+---------------------------------------------------------
+
+I.  Whether the arbitrary rejection of EPF withdrawal claim without
+    specifying reasons violates the principles of natural justice and
+    Articles 14 and 21 of the Constitution of India?
+
+II. Whether the tagging of the EPF account as "Inoperative/Suspicious"
+    without issuing a Show Cause Notice violates Section 7A of the
+    Employees Provident Funds and Miscellaneous Provisions Act, 1952?
+
+III. Whether the prolonged non-response to representations by the
+     EPFO authorities amounts to a violation of the Right to Livelihood
+     under Article 21 of the Constitution?
+
+IV. Whether the Petitioner is entitled to interest on delayed payment
+    at the rate of 12% per annum from the date of application?
+
+---------------------------------------------------------
+PETITIONER'S ARGUMENTS:
+---------------------------------------------------------
+
+1. VIOLATION OF NATURAL JUSTICE:
+   The Respondents rejected the claim without providing any specific
+   reason or opportunity of being heard, which is a clear violation of
+   the audi alteram partem principle. The Hon'ble Supreme Court in
+   Maneka Gandhi v. Union of India (1978) 1 SCC 248 held that any
+   action affecting a citizen's rights must follow due process.
+
+2. FUNDAMENTAL RIGHT TO LIVELIHOOD:
+   The accumulated PF amount of Rs. 18,42,650/- represents 32 years
+   of the Petitioner's hard work and savings. Denial of this amount
+   directly violates his right to livelihood under Article 21.
+   Ref: Olga Tellis v. Bombay Municipal Corporation (1985) 3 SCC 545.
+
+3. ARBITRARY ADMINISTRATIVE ACTION:
+   The tagging of account as "Suspicious" without any show cause notice
+   or inquiry proceedings is ex-facie arbitrary and violates Article 14.
+   The action is unreasonable and not backed by any valid reason or evidence.
+
+4. MEDICAL EMERGENCY:
+   The Petitioner's wife is suffering from chronic kidney disease requiring
+   dialysis twice a week. The denial of PF funds is causing grave hardship
+   and medical emergency to the family.
+
+5. STATUTORY OBLIGATION:
+   Under Para 72 of the EPF Scheme, 1952, the EPFO is bound to settle
+   claims within 20 days of receipt of complete application. The Respondents
+   have violated this statutory timeline by over 15 months.
+
+---------------------------------------------------------
+RESPONDENTS' ARGUMENTS:
+---------------------------------------------------------
+
+1. PENDING KYC VERIFICATION:
+   The Respondents submitted that the withdrawal claim was put on hold
+   due to mismatch between Aadhaar-linked name and EPF records. The name
+   appears as "Rajesh Kumar" in Aadhaar vs "Rajesh Kumar Verma" in EPF
+   records, which requires verification as per EPFO Circular dated 12.03.2022.
+
+2. ANTI-FRAUD MEASURES:
+   The account was flagged under EPFO's fraud detection algorithm due to
+   multiple failed login attempts from different IP addresses, which is
+   a standard security protocol to protect members' interests.
+
+3. ADEQUATE REMEDY AVAILABLE:
+   The Respondents argued that the Petitioner has an alternative remedy
+   of filing a complaint before the EPF Appellate Tribunal and therefore
+   the writ petition is not maintainable.
+
+4. PROCESS COMPLIANCE:
+   The rejection letter was sent to the registered address and mobile
+   number on record. If the Petitioner did not receive it, the fault
+   lies with the Petitioner for not updating his contact details.
+
+---------------------------------------------------------
+RELEVANT LAWS AND SECTIONS:
+---------------------------------------------------------
+
+1. Employees Provident Funds and Miscellaneous Provisions Act, 1952
+   - Section 7A: Determination of money due from employers
+   - Section 14B: Power to recover damages
+   - Para 72 of EPF Scheme: Settlement of Claims (20-day timeline)
+
+2. Constitution of India
+   - Article 14: Right to Equality
+   - Article 21: Right to Life and Personal Liberty (includes livelihood)
+   - Article 226: High Court's power to issue writs
+
+3. Right to Information Act, 2005 (used by Petitioner for RTI)
+
+4. Administrative Law Principles:
+   - Audi Alteram Partem (Right to be heard)
+   - Speaking Orders requirement
+
+---------------------------------------------------------
+PRECEDENTS CITED:
+---------------------------------------------------------
+
+1. Maneka Gandhi v. Union of India (1978) 1 SCC 248
+   - Natural justice must be followed in all administrative actions
+
+2. Olga Tellis v. Bombay Municipal Corporation (1985) 3 SCC 545
+   - Right to livelihood is part of Right to Life under Article 21
+
+3. Regional Provident Fund Commissioner v. Shiv Kumar Joshi (2000) 1 SCC 98
+   - EPFO cannot withhold dues without following due process
+
+4. D.K. Basu v. State of West Bengal (1997) 1 SCC 416
+   - Arbitrary state action violates fundamental rights
+
+---------------------------------------------------------
+RELIEF SOUGHT:
+---------------------------------------------------------
+
+The Petitioner humbly prays that this Hon'ble Court may be pleased to:
+
+a) Issue a Writ of Mandamus directing the Respondents to forthwith
+   release the EPF amount of Rs. 18,42,650/- along with interest
+   at 12% per annum from 15 April 2023.
+
+b) Quash the arbitrary "Inoperative/Suspicious" tag placed on the
+   Petitioner's EPF account No. DL/47821/003421.
+
+c) Direct the Respondents to pay compensation of Rs. 1,00,000/-
+   for mental harassment and hardship caused.
+
+d) Pass any other order as deemed fit in the interest of justice.
+
+---------------------------------------------------------
+VERIFICATION:
+---------------------------------------------------------
+I, Rajesh Kumar Verma, do hereby verify that the contents of this
+petition are true and correct to the best of my knowledge.
+
+Signed: Rajesh Kumar Verma
+Date: 01 October 2024
+Place: New Delhi
+
+Advocate: Sh. Pradeep Mehta
+Bar Council No.: D/1847/2001
+---------------------------------------------------------
+END OF DOCUMENT
+---------------------------------------------------------
