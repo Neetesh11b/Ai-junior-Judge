@@ -63,13 +63,13 @@ cd backend
 pip install -r requirements.txt
 ```
 
-### Step 2 — Set your Anthropic API key
+### Step 2 — Set your Groq API key
 ```bash
 # Windows
-set ANTHROPIC_API_KEY=sk-ant-your-key-here
+set Groq_API_KEY=sk-ant-your-key-here
 
 # Mac / Linux
-export ANTHROPIC_API_KEY=sk-ant-your-key-here
+export Groq_API_KEY=sk-ant-your-key-here
 ```
 
 ### Step 3 — Run Flask backend
@@ -157,15 +157,3 @@ python   app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://user:pass@localho
 -Audit logs for every case action
 
 ---
-
-
-## 📈 UPGRADING TO PRODUCTION
-
-1. Replace SQLite with **PostgreSQL**:
-   ```python
-   app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://user:pass@localhost/aijj'
-   ```
-2. Use **Gunicorn** instead of Flask dev server
-3. Store files in **AWS S3** instead of local disk
-4. Add **HTTPS** with nginx reverse proxy
-5. Change `SECRET_KEY` to a strong random string
